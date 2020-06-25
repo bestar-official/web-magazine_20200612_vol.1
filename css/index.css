@@ -57,6 +57,10 @@ a {
     width: 100%;
 }
 
+.under-contennts {
+    margin-top: 80px;
+}
+
 .contents01 {
     width: 100%;
 }
@@ -67,7 +71,8 @@ a {
 
 .back_button {
     width: 100%;
-    margin-top: 20%;
+    /* margin-top: 20%; */
+    margin-top: 20px;
 }
 
 
